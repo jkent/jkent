@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**jkent/jkent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an independent embedded and applications software developer and electronics engineer. I mostly focus on the C family of languages, but also have become a "Pythonista" and dived into ARM and AArch64 assembler.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How you can reach me:
+  - [Discussions](https://github.com/jkent/jkent/discussions)
+  - E-mail: [jeff@jkent.net](mailto:jeff@jkent.net)
+  - Discord:
+    - User: jkent\.net
+    - Server: [ARMWorks/FriendlyElec](https://discord.gg/mwx8DtnuVS)
+  - IRC: 
+    - Server: [libera.chat](https://libera.chat)
+    - Nick: jkent
+    - Channel [#FriendlyElec](https://kiwiirc.com/nextclient/irc.libera.chat/#friendlyelec)
